@@ -24,7 +24,7 @@
 
 # Nexus Selfbot - Commands
 
-## Help Commands
+> Help Commands
 - **`>help.packing`** - Shows Packing Commands
 - **`>help.auto_response`** - Shows Auto Response Commands
 - **`>help.gc`** - Shows GC Commands
