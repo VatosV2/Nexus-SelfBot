@@ -17,3 +17,7 @@
 <h3 align="center";">Linux is Supported! ✅</h3>
 <br/>
 <h3 align="center"><a href="https://nexustools.de/">https://nexustools.de/</a></h3>
+
+## Release
+- 30 Stars For Release ⭐ ✅
+- 75 Stars For V2 ⭐ ❌
