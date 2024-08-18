@@ -14,5 +14,6 @@
 </p>
 
 <h3 align="center">Please star to support this project for free! ⭐</h3>
+<h3 align="center";">Linux is Supported! ✅</h3>
 <br/>
 <h3 align="center"><a href="https://nexustools.de/">https://nexustools.de/</a></h3>
