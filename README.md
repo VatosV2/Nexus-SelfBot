@@ -36,19 +36,19 @@
 - **`>help.all`** - Shows All Commands
 - **`>services`** - Shows Running Services
 
-## Packing Commands
+> Packing Commands
 - **`>pack`** - Starts Packing
 - **`>stop_pack`** - Stops Packing
 - **`>delete_pack`** - Deletes Last Pack
 
-## Auto Response Commands
+> Auto Response Commands
 - **`>set_delay (delay)`** - Sets delay between messages
 - **`>set_response (message)`** - Sets auto response on pings
 - **`>disable_response`** - Disables auto response
 - **`>copy_cat (user)`** - Copies everything the user says
 - **`>stop_copy_cat`** - Stops Copy Catting
 
-## GC Commands
+> GC Commands
 - **`>lock_gc`** - Locks Current GC
 - **`>unlock_gc`** - Unlocks Locked GC
 - **`>auto_name`** - Spam Changes GC name
@@ -57,12 +57,12 @@
 - **`>mass_add (user/s)`** - Adds and removes user from a GC
 - **`>stop_mass_add`** - Stops Mass Adding
 
-## Reaction Commands
+> Reaction Commands
 - **`>auto_react (user) (emojis)`** - Auto Reacts to messages
 - **`>stop_react`** - Stops auto reacting
 - **`>add_reactions (bomb/emojis)`** - Adds Reactions
 
-## Util Commands
+> Util Commands
 - **`>snipe (number)`** - Snipes last deleted message
 - **`>copy_server (ServerID_from) (serverID_to)`** - Copies A Server
 - **`>report_message (ReplyToMessage/MessageLink)`** - Mass Reports a Messages
@@ -70,29 +70,29 @@
 - **`>disable_auto_read`** - Stops Auto Reading
 - **`>mass_dm (message)`** - Mass DMs all friends and open DMs
 
-## Spam Commands
+> Spam Commands
 - **`>spam (message)`** - Starts Spamming the defined message
 - **`>stop_spam`** - Stops Spamming
 - **`>delete_spam`** - Deletes Last Spam
 - **`>ghost_ping (user)`** - Spam Ghost Pings user
 - **`>stop_ghost_ping`** - Stops Ghost Pinging
 
-## Info Commands
+> Info Commands
 - **`>user_info (user)`** - Shows User Info
 - **`>server_info`** - Shows Server Info
 - **`>gc_info`** - Shows Group Chats Info
 - **`>my_info`** - Shows Your Info
 
-## Admin Commands
+> Admin Commands
 - **`>nuke`** - Nukes A channel
 - **`>lock`** - Locks Current Channel
 - **`>kick (user) (Optional[reason])`** - Kicks A User
 - **`>ban (user) (Optional[reason])`** - Bans A User
 
-## Misc Commands
+> Misc Commands
 - **`>ping`** - Shows Bot Latency
 - **`>translate (text)`** - Translates Text to English
 - **`>quit`** - Quits The Bot
 
-Made by vatos.py
+Made by `vatos.py`
 
