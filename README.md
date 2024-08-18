@@ -6,7 +6,7 @@
   <h3 align="center">Nexus Selfbot - <a href="https://discord.gg/dS2ZWJrNhZ">https://discord.gg/dS2ZWJrNhZ</a></h3>
 
   <p align="center">
-    Nexus MultiTool is a multi-tool mostly centered around Discord tokens but also has other features.
+    Nexus Selfbot - The right way to use discord.
     <br/>
     <br/>
     <a href="https://discord.gg/dS2ZWJrNhZ">Join our Discord</a>
