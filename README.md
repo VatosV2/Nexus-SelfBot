@@ -62,14 +62,6 @@
 - **`>stop_react`** - Stops auto reacting
 - **`>add_reactions (bomb/emojis)`** - Adds Reactions
 
-> Util Commands
-- **`>snipe (number)`** - Snipes last deleted message
-- **`>copy_server (ServerID_from) (serverID_to)`** - Copies A Server
-- **`>report_message (ReplyToMessage/MessageLink)`** - Mass Reports a Messages
-- **`>auto_read`** - Auto Reads Messages
-- **`>disable_auto_read`** - Stops Auto Reading
-- **`>mass_dm (message)`** - Mass DMs all friends and open DMs
-
 > Spam Commands
 - **`>spam (message)`** - Starts Spamming the defined message
 - **`>stop_spam`** - Stops Spamming
@@ -90,6 +82,12 @@
 - **`>ban (user) (Optional[reason])`** - Bans A User
 
 > Misc Commands
+- **`>snipe (number)`** - Snipes last deleted message
+- **`>copy_server (ServerID_from) (serverID_to)`** - Copies A Server
+- **`>report_message (ReplyToMessage/MessageLink)`** - Mass Reports a Messages
+- **`>auto_read`** - Auto Reads Messages
+- **`>disable_auto_read`** - Stops Auto Reading
+- **`>mass_dm (message)`** - Mass DMs all friends and open DMs
 - **`>ping`** - Shows Bot Latency
 - **`>translate (text)`** - Translates Text to English
 - **`>quit`** - Quits The Bot
