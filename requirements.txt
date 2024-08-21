@@ -1,0 +1,8 @@
+discord.py-self
+colorama
+asyncio
+requests
+httpx
+py
+pyfiglet
+googletrans==4.0.0-rc1
