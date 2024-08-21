@@ -40,6 +40,7 @@
 - **`>pack`** - Starts Packing
 - **`>stop_pack`** - Stops Packing
 - **`>delete_pack`** - Deletes Last Pack
+- **`>set_user_response.large (user) (message)`** / Sets auto response for large messages
 
 > Auto Response Commands
 - **`>set_delay (delay)`** - Sets delay between messages
