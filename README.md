@@ -19,7 +19,7 @@
 <h3 align="center"><a href="https://nexustools.de/">https://nexustools.de/</a></h3>
 
 ## Release
-- 35 Stars For Release ⭐ ❌
+- 35 Stars For Release ⭐ ✅
 - 75 Stars For V2 ⭐ ❌
 
 # Nexus Selfbot - Commands
