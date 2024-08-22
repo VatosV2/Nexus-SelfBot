@@ -1,2 +1,2 @@
-py packer.py
+py main.py
 pause
